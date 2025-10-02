@@ -1,0 +1,8 @@
+sets
+__pycache__
+*.pyc
+.vscode
+mlruns
+mlruns.db
+mlartifacts
+.venv
